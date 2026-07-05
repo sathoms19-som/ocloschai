@@ -1,0 +1,9 @@
+{
+  "name": "O Clos Chai Manager",
+  "short_name": "O Clos Chai",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f8f3ea",
+  "theme_color": "#111111",
+  "icons": []
+}
